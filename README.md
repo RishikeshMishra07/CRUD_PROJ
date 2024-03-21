@@ -1,2 +1,2 @@
-# CRUD_PROJ
-CRUD using react and django with mysql database
+# CRUD
+ CRUD using react and adjango with mysql database
